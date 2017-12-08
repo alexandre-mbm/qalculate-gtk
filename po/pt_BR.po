@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: qalculate-gtk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-07 11:15+0100\n"
-"PO-Revision-Date: 2017-12-08 10:50-0300\n"
+"PO-Revision-Date: 2017-12-08 11:13-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -783,32 +783,32 @@ msgstr ""
 
 #: ../data/functions.ui.h:10
 msgid "Delete the selected function"
-msgstr ""
+msgstr "Apagar a função selecionada"
 
 #: ../data/functions.ui.h:11
 msgid "(De)activate the selected function"
-msgstr ""
+msgstr "(Des)ativar a função selecionada"
 
 #: ../data/functions.ui.h:12 ../data/units.ui.h:14 ../data/variables.ui.h:12
 #: ../src/callbacks.cc:2035 ../src/callbacks.cc:2269 ../src/callbacks.cc:2520
 msgid "Deacti_vate"
-msgstr ""
+msgstr "Desati_var"
 
 #: ../data/functions.ui.h:14
 msgid "Apply the selected function to the current expression"
-msgstr ""
+msgstr "Aplicar a função selecionada à expressão atual"
 
 #: ../data/functions.ui.h:15 ../data/units.ui.h:15 ../data/variables.ui.h:14
 msgid "Categor_y"
-msgstr ""
+msgstr "Categor_ia"
 
 #: ../data/functions.ui.h:16
 msgid "_Function"
-msgstr ""
+msgstr "_Função"
 
 #: ../data/functions.ui.h:17
 msgid "Descri_ption"
-msgstr ""
+msgstr "Descri_ção"
 
 #: ../data/main.ui.h:1
 msgid "Default assumptions"
@@ -816,67 +816,67 @@ msgstr ""
 
 #: ../data/main.ui.h:2 ../data/unknownedit.ui.h:17 ../src/callbacks.cc:18808
 msgid "Unknown"
-msgstr ""
+msgstr "Desconhecido"
 
 #: ../data/main.ui.h:3
 msgid "Not Matrix"
-msgstr ""
+msgstr "Não matriz"
 
 #: ../data/main.ui.h:5
 msgid "Complex"
-msgstr ""
+msgstr "Complexo"
 
 #: ../data/main.ui.h:6
 msgid "Real"
-msgstr ""
+msgstr "Real"
 
 #: ../data/main.ui.h:7
 msgid "Rational"
-msgstr ""
+msgstr "Racional"
 
 #: ../data/main.ui.h:9 ../data/unknownedit.ui.h:22
 msgid "Non-Zero"
-msgstr ""
+msgstr "Não-nulo"
 
 #: ../data/main.ui.h:10 ../data/unknownedit.ui.h:18
 msgid "Positive"
-msgstr ""
+msgstr "Positivo"
 
 #: ../data/main.ui.h:11 ../data/unknownedit.ui.h:19
 msgid "Non-Negative"
-msgstr ""
+msgstr "Não-negativo"
 
 #: ../data/main.ui.h:12 ../data/unknownedit.ui.h:20
 msgid "Negative"
-msgstr ""
+msgstr "Negativo"
 
 #: ../data/main.ui.h:13 ../data/unknownedit.ui.h:21
 msgid "Non-Positive"
-msgstr ""
+msgstr "Não-positivo"
 
 #: ../data/main.ui.h:15
 msgid "_File"
-msgstr ""
+msgstr "_Arquivo"
 
 #: ../data/main.ui.h:20
 msgid "Unknown Variable"
-msgstr ""
+msgstr "Variável desconhecida"
 
 #: ../data/main.ui.h:22
 msgid "Function (simplified)"
-msgstr ""
+msgstr "Função (simplificada)"
 
 #: ../data/main.ui.h:25
 msgid "Import CSV File…"
-msgstr ""
+msgstr "Importar arquivo CSV..."
 
 #: ../data/main.ui.h:26
 msgid "Export CSV File…"
-msgstr ""
+msgstr "Exportar arquivo CSV..."
 
 #: ../data/main.ui.h:27
 msgid "_Store Result…"
-msgstr ""
+msgstr "_Gravar resultado..."
 
 #: ../data/main.ui.h:28
 msgid "Save Result Image…"
@@ -888,7 +888,7 @@ msgstr ""
 
 #: ../data/main.ui.h:30
 msgid "Save Definitions"
-msgstr ""
+msgstr "Salvar definições"
 
 #: ../data/main.ui.h:31
 msgid "Fetch current exchange rates from the Internet"
@@ -896,51 +896,51 @@ msgstr ""
 
 #: ../data/main.ui.h:32
 msgid "Update Exchange Rates"
-msgstr ""
+msgstr "Atualizar taxas de câmbio"
 
 #: ../data/main.ui.h:33
 msgid "Plot Functions/Data"
-msgstr ""
+msgstr "Plotar funções/dados"
 
 #: ../data/main.ui.h:34
 msgid "Convert Number Bases"
-msgstr ""
+msgstr "Converter bases numéricas"
 
 #: ../data/main.ui.h:35
 msgid "Percentage Calculation Tool"
-msgstr ""
+msgstr "Ferramenta de cálculo percentual"
 
 #: ../data/main.ui.h:36
 msgid "Periodic Table"
-msgstr ""
+msgstr "Tabela periódica"
 
 #: ../data/main.ui.h:37
 msgid "_Quit"
-msgstr ""
+msgstr "_Fechar"
 
 #: ../data/main.ui.h:39
 msgid "Manage Variables"
-msgstr ""
+msgstr "Gerenciar variáveis"
 
 #: ../data/main.ui.h:40
 msgid "Manage Functions"
-msgstr ""
+msgstr "Gerenciar funções"
 
 #: ../data/main.ui.h:41
 msgid "Manage Units"
-msgstr ""
+msgstr "Gerenciar unidades"
 
 #: ../data/main.ui.h:42
 msgid "Manage Data Sets"
-msgstr ""
+msgstr "Gerenciar conjuntos de dados"
 
 #: ../data/main.ui.h:43
 msgid "Factorize"
-msgstr ""
+msgstr "Fatorar"
 
 #: ../data/main.ui.h:44 ../src/interface.cc:635
 msgid "Simplify"
-msgstr ""
+msgstr "Simplificar"
 
 #: ../data/main.ui.h:45
 msgid "Set Unknowns…"
@@ -948,11 +948,11 @@ msgstr ""
 
 #: ../data/main.ui.h:46
 msgid "Convert to Unit"
-msgstr ""
+msgstr "Converter para unidade"
 
 #: ../data/main.ui.h:47
 msgid "Set Prefix"
-msgstr ""
+msgstr "Configurar prefixo"
 
 #: ../data/main.ui.h:48
 msgid "Convert to Unit Expression…"
@@ -968,27 +968,27 @@ msgstr ""
 
 #: ../data/main.ui.h:51 ../src/callbacks.cc:10555
 msgid "Insert Matrix…"
-msgstr ""
+msgstr "Inserir matriz..."
 
 #: ../data/main.ui.h:52 ../src/callbacks.cc:10556
 msgid "Insert Vector…"
-msgstr ""
+msgstr "Inserir vetor..."
 
 #: ../data/main.ui.h:53
 msgid "_Copy Result"
-msgstr ""
+msgstr "_Copiar resultado"
 
 #: ../data/main.ui.h:54
 msgid "_Preferences"
-msgstr ""
+msgstr "_Preferências"
 
 #: ../data/main.ui.h:55
 msgid "_Mode"
-msgstr ""
+msgstr "_Modo"
 
 #: ../data/main.ui.h:56
 msgid "Number Base"
-msgstr ""
+msgstr "Base numérica"
 
 #: ../data/main.ui.h:57
 msgid "Select Result and Expression Base"
@@ -996,39 +996,39 @@ msgstr ""
 
 #: ../data/main.ui.h:63
 msgid "Other…"
-msgstr ""
+msgstr "Outro..."
 
 #: ../data/main.ui.h:65
 msgid "Time Format"
-msgstr ""
+msgstr "Formato de tempo"
 
 #: ../data/main.ui.h:66
 msgid "Roman Numerals"
-msgstr ""
+msgstr "Numerais romanos"
 
 #: ../data/main.ui.h:67
 msgid "Numerical Display"
-msgstr ""
+msgstr "Mostrador numérico"
 
 #: ../data/main.ui.h:68
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: ../data/main.ui.h:69
 msgid "Engineering"
-msgstr ""
+msgstr "Engenharia"
 
 #: ../data/main.ui.h:70
 msgid "Scientific"
-msgstr ""
+msgstr "Científica"
 
 #: ../data/main.ui.h:71
 msgid "Purely Scientific"
-msgstr ""
+msgstr "Puramente científica"
 
 #: ../data/main.ui.h:72
 msgid "Simple"
-msgstr ""
+msgstr "SImples"
 
 #: ../data/main.ui.h:73
 msgid ""
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #: ../data/main.ui.h:82
 msgid "Negative Exponents"
-msgstr ""
+msgstr "Expoentes negativos"
 
 #: ../data/main.ui.h:83
 msgid ""
@@ -1080,13 +1080,15 @@ msgstr ""
 
 #: ../data/main.ui.h:87
 msgid "1/3 ≈ 0.33333"
-msgstr ""
+msgstr "1/3 ≈ 0.33333"
 
 #: ../data/main.ui.h:88
 msgid ""
 "3/9 = 1/3\n"
 "6/4 = 1.5"
 msgstr ""
+"3/9 = 1/3\n"
+"6/4 = 1.5"
 
 #: ../data/main.ui.h:90
 msgid "Decimal (Try Exact)"
@@ -1094,19 +1096,19 @@ msgstr ""
 
 #: ../data/main.ui.h:91
 msgid "6/4 = 3/2"
-msgstr ""
+msgstr "6/4 = 3/2"
 
 #: ../data/main.ui.h:92 ../src/callbacks.cc:14562
 msgid "Fraction"
-msgstr ""
+msgstr "Fração"
 
 #: ../data/main.ui.h:93
 msgid "6/4 = 1+1/2"
-msgstr ""
+msgstr "6/4 = 1+1/2"
 
 #: ../data/main.ui.h:94
 msgid "Combined"
-msgstr ""
+msgstr "Combinado"
 
 #: ../data/main.ui.h:95
 msgid "Interval Display"
@@ -1150,7 +1152,7 @@ msgstr ""
 
 #: ../data/main.ui.h:105
 msgid "Do not use any prefixes in result"
-msgstr ""
+msgstr "Não usar prefixos em resultados"
 
 #: ../data/main.ui.h:106
 msgid "Show prefixes for primarily SI and CGS units."
@@ -1158,15 +1160,15 @@ msgstr ""
 
 #: ../data/main.ui.h:107
 msgid "Use prefixes for selected units"
-msgstr ""
+msgstr "Usar prefixos para unidades selecionadas"
 
 #: ../data/main.ui.h:108
 msgid "Use prefixes also for currencies"
-msgstr ""
+msgstr "Usar prefixos também para moedas"
 
 #: ../data/main.ui.h:109
 msgid "Use prefixs for all units"
-msgstr ""
+msgstr "Usar prefixos para todas as unidades"
 
 #: ../data/main.ui.h:110
 msgid ""
@@ -1185,7 +1187,7 @@ msgstr ""
 
 #: ../data/main.ui.h:113
 msgid "Enable Denominator Prefixes"
-msgstr ""
+msgstr "Habilitar prefixos de denominador"
 
 #: ../data/main.ui.h:114
 msgid ""
@@ -1214,27 +1216,27 @@ msgstr ""
 
 #: ../data/main.ui.h:122
 msgid "Convert to Mixed Units"
-msgstr ""
+msgstr "Converter para unidades mistas"
 
 #: ../data/main.ui.h:123
 msgid "Abbreviate Names"
-msgstr ""
+msgstr "Abreviar nomes"
 
 #: ../data/main.ui.h:124
 msgid "Enabled Objects"
-msgstr ""
+msgstr "Objetos habilitados"
 
 #: ../data/main.ui.h:125 ../data/variables.ui.h:1
 msgid "Variables"
-msgstr ""
+msgstr "Variáveis"
 
 #: ../data/main.ui.h:127 ../data/units.ui.h:1
 msgid "Units"
-msgstr ""
+msgstr "Unidades"
 
 #: ../data/main.ui.h:128
 msgid "Unknowns"
-msgstr ""
+msgstr "Desconhecidos"
 
 #: ../data/main.ui.h:129
 msgid "Units in Physical Constants"
@@ -1246,23 +1248,23 @@ msgstr ""
 
 #: ../data/main.ui.h:131
 msgid "Calculate Variables"
-msgstr ""
+msgstr "Calcular variáveis"
 
 #: ../data/main.ui.h:132
 msgid "Disables/enables complex numbers in result"
-msgstr ""
+msgstr "Desabilita/habilita números complexos em resultados"
 
 #: ../data/main.ui.h:133
 msgid "Allow Complex Result"
-msgstr ""
+msgstr "Permitir resultado complexo"
 
 #: ../data/main.ui.h:134
 msgid "Disables/enables infinite numbers in result"
-msgstr ""
+msgstr "Desabilita/habilita número infinitos em resultados"
 
 #: ../data/main.ui.h:135
 msgid "Allow Infinite Result"
-msgstr ""
+msgstr "Permitir resultado infinito"
 
 #: ../data/main.ui.h:136
 msgid "Approximation"
@@ -1270,7 +1272,7 @@ msgstr ""
 
 #: ../data/main.ui.h:137
 msgid "Always Exact"
-msgstr ""
+msgstr "Sempre exato"
 
 #: ../data/main.ui.h:138
 msgid ""
@@ -1280,7 +1282,7 @@ msgstr ""
 
 #: ../data/main.ui.h:139
 msgid "Interval Arithmetic"
-msgstr ""
+msgstr "Intervalo aritmético"
 
 #: ../data/main.ui.h:140
 msgid "Try Exact"
@@ -1296,15 +1298,15 @@ msgstr ""
 
 #: ../data/main.ui.h:143
 msgid "Angle Unit"
-msgstr ""
+msgstr "Unidade para ângulos"
 
 #: ../data/main.ui.h:144
 msgid "Degrees"
-msgstr ""
+msgstr "Graus"
 
 #: ../data/main.ui.h:145
 msgid "Radians"
-msgstr ""
+msgstr "Radianos"
 
 #: ../data/main.ui.h:146
 msgid "Gradians"
@@ -1312,7 +1314,7 @@ msgstr ""
 
 #: ../data/main.ui.h:147 ../data/plot.ui.h:27
 msgid "None"
-msgstr ""
+msgstr "Nenhuma"
 
 #: ../data/main.ui.h:148
 msgid "Assumptions"
@@ -1320,7 +1322,7 @@ msgstr ""
 
 #: ../data/main.ui.h:149
 msgid "Algebraic Mode"
-msgstr ""
+msgstr "Modo algébrico"
 
 #: ../data/main.ui.h:150
 msgid "Assume that unknown denominators are non-zero"
@@ -1328,7 +1330,7 @@ msgstr ""
 
 #: ../data/main.ui.h:151
 msgid "Non-Zero Denominators"
-msgstr ""
+msgstr "Denominadores não-nulos"
 
 #: ../data/main.ui.h:152
 msgid "Warn when unknown denominators are assumed non-zero"
@@ -1348,6 +1350,9 @@ msgid ""
 "1/2 x = (1/2)*x\n"
 "1 m / 1 m/s = (1 m)/(1 m/s)"
 msgstr ""
+"1/2x = 1/(2*x)\n"
+"1/2 x = (1/2)*x\n"
+"1 m / 1 m/s = (1 m)/(1 m/s)"
 
 #: ../data/main.ui.h:158
 msgid "Adaptive parsing"
@@ -1355,7 +1360,7 @@ msgstr ""
 
 #: ../data/main.ui.h:159
 msgid "1/2 x = 1/(2*x)"
-msgstr ""
+msgstr "1/2 x = 1/(2*x)"
 
 #: ../data/main.ui.h:160
 msgid "Parse Implicit Multiplication First"
@@ -1363,7 +1368,7 @@ msgstr ""
 
 #: ../data/main.ui.h:161
 msgid "1/2x = 1/2*x"
-msgstr ""
+msgstr "1/2x = 1/2*x"
 
 #: ../data/main.ui.h:162
 msgid "Conventional Parsing"
@@ -1406,11 +1411,11 @@ msgstr ""
 
 #: ../data/main.ui.h:174
 msgid "_Precision"
-msgstr ""
+msgstr "_Precisão"
 
 #: ../data/main.ui.h:175
 msgid "_Decimals"
-msgstr ""
+msgstr "_Decimais"
 
 #: ../data/main.ui.h:176 ../src/callbacks.cc:10542
 msgid "Meta Modes"
@@ -1430,28 +1435,28 @@ msgstr ""
 
 #: ../data/main.ui.h:180
 msgid "Fu_nctions"
-msgstr ""
+msgstr "Fu_nções"
 
 #: ../data/main.ui.h:181
 msgid "_Variables"
-msgstr ""
+msgstr "_Variáveis"
 
 #: ../data/main.ui.h:182
 msgid "_Units"
-msgstr ""
+msgstr "_Unidades"
 
 #: ../data/main.ui.h:184
 msgid "_Contents"
-msgstr ""
+msgstr "_Conteúdo"
 
 #: ../data/main.ui.h:185
 msgid "_About"
-msgstr ""
+msgstr "_Sobre"
 
 #: ../data/main.ui.h:186 ../data/units.ui.h:18 ../src/callbacks.cc:6887
 #: ../src/callbacks.cc:6889
 msgid "="
-msgstr ""
+msgstr "="
 
 #: ../data/main.ui.h:187
 msgid "Calculation result"
@@ -1463,11 +1468,11 @@ msgstr ""
 
 #: ../data/main.ui.h:189
 msgid "_History"
-msgstr ""
+msgstr "_Histórico"
 
 #: ../data/main.ui.h:190
 msgid "C_onversion"
-msgstr ""
+msgstr "C_onversão"
 
 #: ../data/main.ui.h:191
 msgid "RPN Stack"
@@ -1479,11 +1484,11 @@ msgstr ""
 
 #: ../data/main.ui.h:193
 msgid "Always exact"
-msgstr ""
+msgstr "Sempre exato"
 
 #: ../data/main.ui.h:194
 msgid "Interval arithmetics"
-msgstr ""
+msgstr "Intervalos aritméticos"
 
 #: ../data/main.ui.h:195
 msgid "Try exact"
@@ -1507,19 +1512,19 @@ msgstr ""
 
 #: ../data/main.ui.h:200
 msgid "Pure"
-msgstr ""
+msgstr "Puro"
 
 #: ../data/main.ui.h:201
 msgid "Number base"
-msgstr ""
+msgstr "Base numérica"
 
 #: ../data/main.ui.h:203
 msgid "Roman"
-msgstr ""
+msgstr "Romano"
 
 #: ../data/main.ui.h:204 ../data/percentage.ui.h:3 ../src/callbacks.cc:10524
 msgid "Clear"
-msgstr ""
+msgstr "Limpar"
 
 #: ../data/main.ui.h:205
 msgid "AC"
@@ -1527,11 +1532,11 @@ msgstr ""
 
 #: ../data/main.ui.h:206
 msgid "Multiply"
-msgstr ""
+msgstr "Multiplicar"
 
 #: ../data/main.ui.h:207
 msgid "Divide"
-msgstr ""
+msgstr "Dividir"
 
 #: ../data/main.ui.h:208
 msgctxt "Keypad"
@@ -1540,7 +1545,7 @@ msgstr ""
 
 #: ../data/main.ui.h:209
 msgid "Subtract"
-msgstr ""
+msgstr "Subtrair"
 
 #: ../data/main.ui.h:210
 msgid "Decimal point"
@@ -1548,19 +1553,19 @@ msgstr ""
 
 #: ../data/main.ui.h:211
 msgid "10^x (Ctrl+Shift+E)"
-msgstr ""
+msgstr "10^x (Ctrl+Shift+E)"
 
 #: ../data/main.ui.h:212
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 #: ../data/main.ui.h:213
 msgid "Previous result"
-msgstr ""
+msgstr "Resultado anterior"
 
 #: ../data/main.ui.h:214
 msgid "ANS"
-msgstr ""
+msgstr "ANS"
 
 #: ../data/main.ui.h:215 ../src/callbacks.cc:550 ../src/callbacks.cc:6888
 #: ../src/callbacks.cc:6890
@@ -1577,11 +1582,11 @@ msgstr ""
 
 #: ../data/main.ui.h:218
 msgid "Delete"
-msgstr ""
+msgstr "Deletar"
 
 #: ../data/main.ui.h:219
 msgid "DEL"
-msgstr ""
+msgstr "DEL"
 
 #: ../data/main.ui.h:220
 msgid "Argument separator"
@@ -1593,35 +1598,35 @@ msgstr ""
 
 #: ../data/main.ui.h:222
 msgid "Sine"
-msgstr ""
+msgstr "Seno"
 
 #: ../data/main.ui.h:223
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 #: ../data/main.ui.h:224
 msgid "Cosine"
-msgstr ""
+msgstr "Cosseno"
 
 #: ../data/main.ui.h:225
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 #: ../data/main.ui.h:226
 msgid "Tangent"
-msgstr ""
+msgstr "Tangente"
 
 #: ../data/main.ui.h:227
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 #: ../data/main.ui.h:228
 msgid "Natural logarithm"
-msgstr ""
+msgstr "Logarítimo natural"
 
 #: ../data/main.ui.h:229
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 #: ../data/main.ui.h:230
 msgid "Raise (Ctrl+*)"
@@ -1629,35 +1634,35 @@ msgstr ""
 
 #: ../data/main.ui.h:231
 msgid "Square root"
-msgstr ""
+msgstr "Raiz quadrada"
 
 #: ../data/main.ui.h:232
 msgid "sqrt"
-msgstr ""
+msgstr "sqrt"
 
 #: ../data/main.ui.h:233
 msgid "Summation function"
-msgstr ""
+msgstr "Função de soma"
 
 #: ../data/main.ui.h:234
 msgid "sum"
-msgstr ""
+msgstr "sum"
 
 #: ../data/main.ui.h:235
 msgid "Unknown variable"
-msgstr ""
+msgstr "Variável desconhecida"
 
 #: ../data/main.ui.h:236
 msgid "Modulus"
-msgstr ""
+msgstr "Módulo"
 
 #: ../data/main.ui.h:237
 msgid "mod"
-msgstr ""
+msgstr "mod"
 
 #: ../data/main.ui.h:238
 msgid "Factorial"
-msgstr ""
+msgstr "Fatorial"
 
 #: ../data/main.ui.h:240
 msgid "Archimedes constant"
