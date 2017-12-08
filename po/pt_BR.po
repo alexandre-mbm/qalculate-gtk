@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: qalculate-gtk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-07 11:15+0100\n"
-"PO-Revision-Date: 2017-12-08 00:23-0300\n"
+"PO-Revision-Date: 2017-12-08 10:50-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,11 +28,11 @@ msgstr "Qalculate!"
 #: ../data/qalculate-gtk.desktop.in.h:2
 #: ../data/qalculate-gtk.appdata.xml.in.h:2 ../src/callbacks.cc:17336
 msgid "Powerful and easy to use calculator"
-msgstr ""
+msgstr "Calculadora poderosa e fácil de usar"
 
 #: ../data/qalculate-gtk.appdata.xml.in.h:1
 msgid "Qalculate! (GTK+ UI)"
-msgstr ""
+msgstr "Qalculate! (GTK+ UI)"
 
 #: ../data/qalculate-gtk.appdata.xml.in.h:3
 msgid ""
@@ -63,11 +63,11 @@ msgstr ""
 #: ../src/callbacks.cc:17910 ../src/callbacks.cc:17924
 #: ../src/callbacks.cc:18407 ../src/callbacks.cc:18902
 msgid "_Cancel"
-msgstr ""
+msgstr "_Cancelar"
 
 #: ../data/argumentrules.ui.h:3
 msgid "Do not save modifications"
-msgstr ""
+msgstr "Não salvar alterações"
 
 #: ../data/argumentrules.ui.h:4 ../data/csvexport.ui.h:3
 #: ../data/csvimport.ui.h:4 ../data/datasetedit.ui.h:4 ../data/datasets.ui.h:4
@@ -76,7 +76,7 @@ msgstr ""
 #: ../data/unknownedit.ui.h:5 ../data/variableedit.ui.h:5
 #: ../src/callbacks.cc:17910 ../src/callbacks.cc:18902
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #: ../data/argumentrules.ui.h:5
 msgid "Accept the modification of argument rules"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: ../data/argumentrules.ui.h:7
 msgid "Custom condition"
-msgstr ""
+msgstr "Condição customizada"
 
 #: ../data/argumentrules.ui.h:8
 msgid ""
@@ -98,7 +98,7 @@ msgstr ""
 
 #: ../data/argumentrules.ui.h:9
 msgid "Allow matrix"
-msgstr ""
+msgstr "Permitir matriz"
 
 #: ../data/argumentrules.ui.h:10
 msgid "Forbid zero"
@@ -106,7 +106,7 @@ msgstr ""
 
 #: ../data/argumentrules.ui.h:11 ../data/plot.ui.h:39
 msgid "Min"
-msgstr ""
+msgstr "Mín"
 
 #: ../data/argumentrules.ui.h:12
 msgid "Include equals"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../data/argumentrules.ui.h:13 ../data/plot.ui.h:41
 msgid "Max"
-msgstr ""
+msgstr "Máx"
 
 #: ../data/setbase.ui.h:1 ../data/nbases.ui.h:1
 msgid "Number Bases"
@@ -127,21 +127,21 @@ msgstr ""
 #: ../data/units.ui.h:2 ../data/variables.ui.h:2 ../src/callbacks.cc:1111
 #: ../src/callbacks.cc:9079 ../src/callbacks.cc:18751
 msgid "_Close"
-msgstr ""
+msgstr "_Fechar"
 
 #: ../data/setbase.ui.h:3 ../data/main.ui.h:58 ../data/nbases.ui.h:4
 #: ../src/callbacks.cc:14557
 msgid "Binary"
-msgstr ""
+msgstr "BInário"
 
 #: ../data/setbase.ui.h:4 ../data/main.ui.h:59 ../data/nbases.ui.h:5
 #: ../src/callbacks.cc:14558
 msgid "Octal"
-msgstr ""
+msgstr "Octal"
 
 #: ../data/setbase.ui.h:5 ../data/main.ui.h:60 ../data/nbases.ui.h:3
 msgid "Decimal"
-msgstr ""
+msgstr "Decimal"
 
 #: ../data/setbase.ui.h:6 ../data/main.ui.h:61 ../src/callbacks.cc:14559
 msgid "Duodecimal"
@@ -150,15 +150,15 @@ msgstr ""
 #: ../data/setbase.ui.h:7 ../data/main.ui.h:62 ../data/nbases.ui.h:6
 #: ../src/callbacks.cc:14560
 msgid "Hexadecimal"
-msgstr ""
+msgstr "Hexadecimal"
 
 #: ../data/setbase.ui.h:8 ../data/csvexport.ui.h:12 ../data/csvimport.ui.h:29
 msgid "Other"
-msgstr ""
+msgstr "Outro"
 
 #: ../data/setbase.ui.h:9 ../data/plot.ui.h:42
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../data/setbase.ui.h:10 ../data/main.ui.h:64
 msgid "Sexagesimal"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: ../data/setbase.ui.h:12
 msgid "Roman numerals"
-msgstr ""
+msgstr "Numerais romanos"
 
 #: ../data/setbase.ui.h:13
 msgid "<b>Result Base</b>"
@@ -182,11 +182,11 @@ msgstr ""
 
 #: ../data/csvexport.ui.h:1
 msgid "Export CSV File"
-msgstr ""
+msgstr "Exportar arquivo CSV"
 
 #: ../data/csvexport.ui.h:4
 msgid "Current result"
-msgstr ""
+msgstr "Resultado atual"
 
 #: ../data/csvexport.ui.h:5
 msgid "Matrix/vector variable"
@@ -195,15 +195,15 @@ msgstr ""
 #: ../data/csvexport.ui.h:6 ../data/csvimport.ui.h:6
 #: ../data/functionedit.ui.h:45
 msgid "File"
-msgstr ""
+msgstr "Arquivo"
 
 #: ../data/csvexport.ui.h:7 ../data/csvimport.ui.h:23
 msgid "Delimiter"
-msgstr ""
+msgstr "Delimitador"
 
 #: ../data/csvexport.ui.h:8 ../data/csvimport.ui.h:25
 msgid "Comma"
-msgstr ""
+msgstr "Vírgula"
 
 #: ../data/csvexport.ui.h:9 ../data/csvimport.ui.h:26
 msgid "Tabulator"
@@ -215,36 +215,36 @@ msgstr ""
 
 #: ../data/csvexport.ui.h:11 ../data/csvimport.ui.h:28
 msgid "Space"
-msgstr ""
+msgstr "Espaço"
 
 #: ../data/csvimport.ui.h:1
 msgid "Import CSV File"
-msgstr ""
+msgstr "Importar arquivo CSV"
 
 #: ../data/csvimport.ui.h:3
 msgid "Do not import the file"
-msgstr ""
+msgstr "Não importar o arquivo"
 
 #: ../data/csvimport.ui.h:5
 msgid "Import the file"
-msgstr ""
+msgstr "Importar o arquivo"
 
 #: ../data/csvimport.ui.h:7
 msgid "Name of the data file to import"
-msgstr ""
+msgstr "Nome do arquivos de dados a importar"
 
 #: ../data/csvimport.ui.h:8
 msgid "Select a file"
-msgstr ""
+msgstr "Selecione um arquivo"
 
 #: ../data/csvimport.ui.h:9
 msgid "Import as"
-msgstr ""
+msgstr "Importar como"
 
 #: ../data/csvimport.ui.h:10 ../data/functionedit.ui.h:33 ../data/main.ui.h:18
 #: ../data/matrix.ui.h:1 ../data/matrixedit.ui.h:18 ../src/callbacks.cc:9092
 msgid "Matrix"
-msgstr ""
+msgstr "Matriz"
 
 #: ../data/csvimport.ui.h:11
 msgid ""
@@ -253,7 +253,7 @@ msgstr ""
 
 #: ../data/csvimport.ui.h:12 ../src/callbacks.cc:9950 ../src/callbacks.cc:14910
 msgid "Vectors"
-msgstr ""
+msgstr "Vetores"
 
 #: ../data/csvimport.ui.h:13
 msgid "If a matrix or vectors shall be generated from the contents of the file"
@@ -267,7 +267,7 @@ msgstr ""
 #: ../src/interface.cc:1469 ../src/interface.cc:1742 ../src/interface.cc:1994
 #: ../src/interface.cc:2046 ../src/interface.cc:2401 ../src/callbacks.cc:10800
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: ../data/csvimport.ui.h:15
 msgid ""
@@ -292,19 +292,19 @@ msgstr ""
 #: ../src/interface.cc:1314 ../src/interface.cc:1369 ../src/interface.cc:1431
 #: ../src/interface.cc:1493 ../src/interface.cc:2412
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 #: ../data/csvimport.ui.h:19
 msgid "First row"
-msgstr ""
+msgstr "Primeira linha"
 
 #: ../data/csvimport.ui.h:20
 msgid "The first row with data to import in the file"
-msgstr ""
+msgstr "A primeira linha contendo dados a importar, no arquivo"
 
 #: ../data/csvimport.ui.h:21
 msgid "Includes headings"
-msgstr ""
+msgstr "Inclui cabeçalhos"
 
 #: ../data/csvimport.ui.h:22
 msgid "If the first row contains column headings"
@@ -316,7 +316,7 @@ msgstr ""
 
 #: ../data/csvimport.ui.h:30
 msgid "Custom delimiter"
-msgstr ""
+msgstr "Delimitador customizado"
 
 #: ../data/datasetedit.ui.h:1
 msgid "Edit Data Property"
@@ -324,11 +324,11 @@ msgstr ""
 
 #: ../data/datasetedit.ui.h:3
 msgid "Do not create/modify this data set"
-msgstr ""
+msgstr "Não criar/modificar este conjunto de dados "
 
 #: ../data/datasetedit.ui.h:5
 msgid "Accept the creation/modification of this data set"
-msgstr ""
+msgstr "Aceitar a criação/modificação deste conjunto de dados"
 
 #: ../data/datasetedit.ui.h:7
 msgid "Name used for reference"
@@ -346,7 +346,7 @@ msgstr ""
 
 #: ../data/datasetedit.ui.h:11 ../data/functionedit.ui.h:15
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #: ../data/datasetedit.ui.h:12
 msgid "Description of this data property"
@@ -354,43 +354,43 @@ msgstr ""
 
 #: ../data/datasetedit.ui.h:13
 msgid "Value Type"
-msgstr ""
+msgstr "Tipo de Valor"
 
 #: ../data/datasetedit.ui.h:14 ../data/functionedit.ui.h:30
 #: ../data/main.ui.h:257
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: ../data/datasetedit.ui.h:15 ../data/functionedit.ui.h:27 ../data/main.ui.h:4
 #: ../data/unknownedit.ui.h:12
 msgid "Number"
-msgstr ""
+msgstr "Número"
 
 #: ../data/datasetedit.ui.h:16 ../data/functionedit.ui.h:18 ../data/plot.ui.h:8
 #: ../data/simplefunctionedit.ui.h:8 ../src/interface.cc:1758
 #: ../src/interface.cc:2352
 msgid "Expression"
-msgstr ""
+msgstr "Expressão"
 
 #: ../data/datasetedit.ui.h:17
 msgid "Hide"
-msgstr ""
+msgstr "Esconder"
 
 #: ../data/datasetedit.ui.h:18
 msgid "Use as key"
-msgstr ""
+msgstr "Usar como chave"
 
 #: ../data/datasetedit.ui.h:19
 msgid "Approximate value"
-msgstr ""
+msgstr "Valor aproximado"
 
 #: ../data/datasetedit.ui.h:20
 msgid "Case sensitive value"
-msgstr ""
+msgstr "Valor sensível à caixa"
 
 #: ../data/datasetedit.ui.h:21
 msgid "Value uses brackets"
-msgstr ""
+msgstr "O valor usar colchetes"
 
 #: ../data/datasetedit.ui.h:22 ../data/main.ui.h:285
 msgid "Unit expression"
@@ -398,37 +398,37 @@ msgstr ""
 
 #: ../data/datasetedit.ui.h:23 ../src/callbacks.cc:9501
 msgid "Edit Data Set"
-msgstr ""
+msgstr "Editar conjunto de dados"
 
 #: ../data/datasetedit.ui.h:24 ../data/plot.ui.h:7 ../src/interface.cc:1991
 #: ../src/interface.cc:2349
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: ../data/datasetedit.ui.h:25
 msgid "Data file"
-msgstr ""
+msgstr "Arquivo de dados"
 
 #: ../data/datasetedit.ui.h:26
 msgid "Description of this data set"
-msgstr ""
+msgstr "Descrição deste conjunto de dados"
 
 #: ../data/datasetedit.ui.h:27
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 #: ../data/datasetedit.ui.h:28 ../data/functionedit.ui.h:17
 #: ../data/preferences.ui.h:38
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #: ../data/datasetedit.ui.h:29
 msgid "Properties:"
-msgstr ""
+msgstr "Propriedades:"
 
 #: ../data/datasetedit.ui.h:30
 msgid "Definition of the properties of this data set"
-msgstr ""
+msgstr "Definição das propriedades deste conjunto de dados"
 
 #: ../data/datasetedit.ui.h:31 ../data/functions.ui.h:3 ../data/main.ui.h:16
 #: ../data/units.ui.h:3 ../data/variables.ui.h:3
@@ -438,22 +438,22 @@ msgstr "_Novo"
 #: ../data/datasetedit.ui.h:32 ../data/functions.ui.h:5 ../data/main.ui.h:38
 #: ../data/units.ui.h:5 ../data/variables.ui.h:5
 msgid "_Edit"
-msgstr ""
+msgstr "_Editar"
 
 #: ../data/datasetedit.ui.h:33 ../data/functionedit.ui.h:53
 #: ../data/functions.ui.h:9 ../data/units.ui.h:11 ../data/variables.ui.h:9
 #: ../src/callbacks.cc:10843
 msgid "_Delete"
-msgstr ""
+msgstr "_Apagar"
 
 #: ../data/datasetedit.ui.h:34 ../src/callbacks.cc:1997
 #: ../src/callbacks.cc:2791
 msgid "Properties"
-msgstr ""
+msgstr "Propriedades"
 
 #: ../data/datasetedit.ui.h:35
 msgid "Name used to invoke the function in expressions"
-msgstr ""
+msgstr "Nome usado para invocar a função em expressões"
 
 #: ../data/datasetedit.ui.h:36
 msgid "Object argument name"
@@ -465,78 +465,78 @@ msgstr ""
 
 #: ../data/datasetedit.ui.h:38
 msgid "Default property"
-msgstr ""
+msgstr "Propriedade padrão"
 
 #: ../data/datasetedit.ui.h:39 ../data/functionedit.ui.h:42
 #: ../data/main.ui.h:21 ../data/plot.ui.h:9 ../src/interface.cc:1357
 msgid "Function"
-msgstr ""
+msgstr "Função"
 
 #: ../data/datasets.ui.h:1 ../src/callbacks.cc:9233
 msgid "Edit Data Object"
-msgstr ""
+msgstr "Editar objeto de dados"
 
 #: ../data/datasets.ui.h:3
 msgid "Do not create/modify this data object"
-msgstr ""
+msgstr "Não criar/modificar este objeto de dados"
 
 #: ../data/datasets.ui.h:5
 msgid "Accept the creation/modification of this data object"
-msgstr ""
+msgstr "Aceitar a criação/modificação deste objeto de dados"
 
 #. new dataset
 #: ../data/datasets.ui.h:6 ../src/callbacks.cc:9596
 msgid "Data Sets"
-msgstr ""
+msgstr "Objetos de Dados"
 
 #: ../data/datasets.ui.h:8 ../data/main.ui.h:23 ../src/interface.cc:1556
 msgid "Data Set"
-msgstr ""
+msgstr "Objeto de dados"
 
 #: ../data/datasets.ui.h:9
 msgid "Create a new data set"
-msgstr ""
+msgstr "Criar um novo objeto de dados"
 
 #: ../data/datasets.ui.h:10
 msgid "Edit the selected data set"
-msgstr ""
+msgstr "Editar o objeto de dados selecionado"
 
 #: ../data/datasets.ui.h:11
 msgid "Delete the selected data set"
-msgstr ""
+msgstr "Apagar o objeto de dados selecionado"
 
 #: ../data/datasets.ui.h:12
 msgid "Objects"
-msgstr ""
+msgstr "Objetos"
 
 #: ../data/datasets.ui.h:13
 msgid "Create a new data object"
-msgstr ""
+msgstr "Criar um novo objeto de dados"
 
 #: ../data/datasets.ui.h:14
 msgid "Edit the selected data object"
-msgstr ""
+msgstr "Editar o objeto de dados selecionado"
 
 #: ../data/datasets.ui.h:15
 msgid "Remove the selected data object"
-msgstr ""
+msgstr "Remover o objeto de dados selecionado"
 
 #: ../data/datasets.ui.h:16
 msgid "Data Set Description"
-msgstr ""
+msgstr "Descrição do objeto de dados"
 
 #: ../data/datasets.ui.h:17
 msgid "Object Attributes"
-msgstr ""
+msgstr "Atributos do objeto"
 
 #: ../data/decimals.ui.h:1
 msgid "Decimals"
-msgstr ""
+msgstr "Decimais"
 
 #: ../data/decimals.ui.h:3 ../data/matrix.ui.h:3 ../data/plot.ui.h:6
 #: ../data/precision.ui.h:5
 msgid "Close this window"
-msgstr ""
+msgstr "Fechar esta janela"
 
 #: ../data/decimals.ui.h:4
 msgid "Min decimals"
@@ -548,58 +548,58 @@ msgstr ""
 
 #: ../data/decimals.ui.h:6
 msgid "Minimal number of displayed decimals"
-msgstr ""
+msgstr "Número mínimo de decimais para mostrar"
 
 #: ../data/decimals.ui.h:7 ../data/plot.ui.h:40 ../data/unitedit.ui.h:42
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../data/decimals.ui.h:8
 msgid "Maximal number of decimals to display (and round to)"
-msgstr ""
+msgstr "Número máximo de decimais para mostrar (e arredondar)"
 
 #: ../data/decimals.ui.h:9
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../data/functionedit.ui.h:1 ../src/callbacks.cc:8119
 #: ../src/callbacks.cc:8322
 msgid "Edit Function"
-msgstr ""
+msgstr "Editar função"
 
 #: ../data/functionedit.ui.h:2 ../data/main.ui.h:183 ../data/matrixedit.ui.h:2
 #: ../data/plot.ui.h:2 ../data/unitedit.ui.h:2 ../data/unknownedit.ui.h:2
 #: ../data/variableedit.ui.h:2
 msgid "_Help"
-msgstr ""
+msgstr "_Ajuda"
 
 #: ../data/functionedit.ui.h:4
 msgid "Do not create/modify this function"
-msgstr ""
+msgstr "Não criar/modificar esta função"
 
 #: ../data/functionedit.ui.h:6
 msgid "Accept the creation/modification of this function"
-msgstr ""
+msgstr "Aceitar a criação/modificação desta função"
 
 #: ../data/functionedit.ui.h:8
 msgid "Name used to invoke this function in expressions"
-msgstr ""
+msgstr "Nome usado para invocar esta função em expressões"
 
 #: ../data/functionedit.ui.h:12
 msgid "Title displayed in menus and in function manager"
-msgstr ""
+msgstr "Título mostrado em menus e no gerenciador de funções"
 
 #: ../data/functionedit.ui.h:13
 msgid "Hide function"
-msgstr ""
+msgstr "Esconder função"
 
 #: ../data/functionedit.ui.h:14
 msgid "If this function shall be hidden in menus"
-msgstr ""
+msgstr "Se esta função não deve estar presente em menus"
 
 #: ../data/functionedit.ui.h:16
 msgid "Description of this function"
-msgstr ""
+msgstr "Descrição desta função"
 
 #: ../data/functionedit.ui.h:19
 msgid ""
@@ -609,7 +609,7 @@ msgstr ""
 
 #: ../data/functionedit.ui.h:20
 msgid "Condition"
-msgstr ""
+msgstr "Condição"
 
 #: ../data/functionedit.ui.h:21
 msgid ""
@@ -619,11 +619,11 @@ msgstr ""
 
 #: ../data/functionedit.ui.h:22
 msgid "Sub-Functions"
-msgstr ""
+msgstr "Sub-funções"
 
 #: ../data/functionedit.ui.h:23
 msgid "Arguments:"
-msgstr ""
+msgstr "Argumentos:"
 
 #: ../data/functionedit.ui.h:24
 msgid "Definition of this function's arguments"
@@ -631,7 +631,7 @@ msgstr ""
 
 #: ../data/functionedit.ui.h:25
 msgid "Argument name"
-msgstr ""
+msgstr "Nome do argumento"
 
 #: ../data/functionedit.ui.h:26
 msgid "Free"
@@ -639,77 +639,77 @@ msgstr ""
 
 #: ../data/functionedit.ui.h:28 ../data/main.ui.h:8 ../data/unknownedit.ui.h:15
 msgid "Integer"
-msgstr ""
+msgstr "Inteiro"
 
 #: ../data/functionedit.ui.h:29
 msgid "Symbol"
-msgstr ""
+msgstr "Símbolo"
 
 #: ../data/functionedit.ui.h:31
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../data/functionedit.ui.h:32 ../data/main.ui.h:19 ../data/matrix.ui.h:11
 #: ../data/matrixedit.ui.h:20 ../src/callbacks.cc:9090
 msgid "Vector"
-msgstr ""
+msgstr "Vetor"
 
 #: ../data/functionedit.ui.h:34
 msgid "Positive number"
-msgstr ""
+msgstr "Número positivo"
 
 #: ../data/functionedit.ui.h:35
 msgid "Non-zero number"
-msgstr ""
+msgstr "Número não-nulo"
 
 #: ../data/functionedit.ui.h:36
 msgid "Non-negative number"
-msgstr ""
+msgstr "Número não-negativo"
 
 #: ../data/functionedit.ui.h:37
 msgid "Positive integer"
-msgstr ""
+msgstr "Inteiro positivo"
 
 #: ../data/functionedit.ui.h:38
 msgid "Non-zero integer"
-msgstr ""
+msgstr "Inteiro não-nulo"
 
 #: ../data/functionedit.ui.h:39
 msgid "Non-negative integer"
-msgstr ""
+msgstr "Inteiro não-negativo"
 
 #: ../data/functionedit.ui.h:40
 msgid "Boolean"
-msgstr ""
+msgstr "Booleano"
 
 #: ../data/functionedit.ui.h:41 ../src/callbacks.cc:9604
 msgid "Object"
-msgstr ""
+msgstr "Objeto"
 
 #: ../data/functionedit.ui.h:43 ../data/main.ui.h:24 ../src/interface.cc:1473
 #: ../src/interface.cc:1477
 msgid "Unit"
-msgstr ""
+msgstr "Unidade"
 
 #: ../data/functionedit.ui.h:44 ../data/main.ui.h:17 ../src/interface.cc:1411
 msgid "Variable"
-msgstr ""
+msgstr "Variável"
 
 #: ../data/functionedit.ui.h:46
 msgid "Angle"
-msgstr ""
+msgstr "Ângulo"
 
 #: ../data/functionedit.ui.h:47
 msgid "Data object"
-msgstr ""
+msgstr "Objeto de dados"
 
 #: ../data/functionedit.ui.h:48
 msgid "Data property"
-msgstr ""
+msgstr "Propriedade de dados"
 
 #: ../data/functionedit.ui.h:49 ../data/plot.ui.h:35
 msgid "_Add"
-msgstr ""
+msgstr "_Adicionar"
 
 #: ../data/functionedit.ui.h:50
 msgid "Add entered argument definition"
@@ -718,27 +718,27 @@ msgstr ""
 #: ../data/functionedit.ui.h:51 ../data/functions.ui.h:13 ../data/plot.ui.h:36
 #: ../src/callbacks.cc:18902
 msgid "_Apply"
-msgstr ""
+msgstr "_Aplicar"
 
 #: ../data/functionedit.ui.h:52
 msgid "Modify selected argument"
-msgstr ""
+msgstr "Modificar argumento selecionado"
 
 #: ../data/functionedit.ui.h:54
 msgid "Remove selected argument"
-msgstr ""
+msgstr "Remover argumento selecionado"
 
 #: ../data/functionedit.ui.h:55
 msgid "Rules"
-msgstr ""
+msgstr "Regras"
 
 #: ../data/functionedit.ui.h:56
 msgid "Edit conditions for selected argument"
-msgstr ""
+msgstr "Editar condições para argumento selecionado"
 
 #: ../data/functionedit.ui.h:58
 msgid "Close this dialog"
-msgstr ""
+msgstr "Fechar este diálogo"
 
 #: ../data/functionedit.ui.h:59 ../src/interface.cc:1761
 msgid "Precalculate"
@@ -754,28 +754,28 @@ msgstr ""
 
 #: ../data/functionedit.ui.h:62
 msgid "Apply changes to the selected subfunction"
-msgstr ""
+msgstr "Aplicar mudanças à subfunção selecionada"
 
 #: ../data/functionedit.ui.h:63
 msgid "Remove the selected subfunction"
-msgstr ""
+msgstr "Remover a subfunção selecionada"
 
 #: ../data/functions.ui.h:1 ../data/main.ui.h:126
 msgid "Functions"
-msgstr ""
+msgstr "Funções"
 
 #: ../data/functions.ui.h:4 ../data/main.ui.h:239
 msgid "Create a new function"
-msgstr ""
+msgstr "Criar uma nova função"
 
 #: ../data/functions.ui.h:6
 msgid "Edit the selected function"
-msgstr ""
+msgstr "Editar a função selecionada"
 
 #: ../data/functions.ui.h:7 ../data/matrix.ui.h:4 ../data/units.ui.h:7
 #: ../data/variables.ui.h:7 ../src/callbacks.cc:7218
 msgid "_Insert"
-msgstr ""
+msgstr "_Inserir"
 
 #: ../data/functions.ui.h:8
 msgid "Insert (or execute) the selected function into the expression entry"
